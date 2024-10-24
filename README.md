@@ -97,8 +97,8 @@ With this project and others in my portfolio, I am ready to take on my first rol
 ---
 
 ### 👀 **Check Out My Other Projects:**
-- [Wazuh SIEM Project](link)
-- [WannaCry Simulation](link)
+- [Wazuh SIEM Project]([link](https://github.com/Mohamedqadar-Ibrahim/Wazuh-SIEM-Project.git))
+- [AWS ScoutSuite Project]([link](https://github.com/Mohamedqadar-Ibrahim/AWS-ScoutSuite-Report.git))
 
 ---
 
