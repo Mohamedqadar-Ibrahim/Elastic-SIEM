@@ -4,12 +4,12 @@
 This project demonstrates how I used **ElasticSIEM** to detect and log specific security events from a Windows virtual machine (VM) using the **Elastic Agent**. By configuring integrations, custom rules, and triggering security events, I show my ability to use SIEM tools to monitor and manage security logs efficiently.
 
 ## 📑 **Table of Contents**
-1. [Project Overview](#project-overview)
-2. [Technologies Used](#technologies-used)
-3. [Setup Steps](#setup-steps)
-4. [Key Screenshots](#key-screenshots)
-5. [Results & Analysis](#results-and-analysis)
-6. [Conclusion](#conclusion)
+1. [Project Overview](#-project-overview)
+2. [Technologies Used](#-technologies-used)
+3. [Setup Steps](#-setup-steps)
+4. [Key Screenshots](#-key-screenshots)
+5. [Results & Analysis](#-results--analysis)
+6. [Conclusion](#-conclusion)
 
 ---
 
