@@ -105,5 +105,5 @@ With this project and others in my portfolio, I am ready to take on my first rol
 ## 🚀 **Let's Connect:**
 Feel free to reach out if you’d like to discuss my projects or opportunities:
 - **Email**: mohamedqadar.ibrahim@hotmail.com
-- **LinkedIn**: [YourLinkedInProfile]
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedqadar)
 
