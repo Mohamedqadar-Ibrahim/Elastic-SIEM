@@ -38,16 +38,19 @@ I created an ElasticSIEM account and accessed the dashboard for monitoring event
 
 ### 2. **Adding Elastic Agent to the Windows Host**
 The Elastic Agent was installed on a Windows virtual machine to enable real-time log collection and threat detection.  
-![Elastic Agent Installed](https://github.com/YourUsername/YourRepo/blob/main/screenshots/elastic-agent-installed.png)
+
+![Elastic Agent Installed](screenshots/Step%202.PNG)
 
 ### 3. **Configuring Integration and Security Policies**
 - Added the `ElasticDefendAgent` integration for monitoring Windows events.
 - Set up two integration policies: one for system events and one for Windows-specific security events.
-![Windows Machine Connected](https://github.com/YourUsername/YourRepo/blob/main/screenshots/windows-machine-connected.png)
+
+![Windows Machine Connected](screenshots/Step%203.PNG)
 
 ### 4. **Creating a Custom Detection Rule**
 A new rule called `Test Rule 2` was created to detect specific security incidents, including firewall changes or unauthorized script execution.  
-![Creating Custom Rule](https://github.com/YourUsername/YourRepo/blob/main/screenshots/creating-custom-rule.png)
+
+![Creating Custom Rule](screenshots/Step%204.PNG)
 
 ### 5. **Triggering Security Events**
 A PowerShell command was executed on the Windows VM to simulate a security event (`Set-NetFirewallProfile -All -Enabled True`).
@@ -71,12 +74,12 @@ A PowerShell command was executed on the Windows VM to simulate a security event
 
 ### 🚨 **Triggering Events and Logs**
 Once the PowerShell command was executed, the rule (`Test Rule 2`) successfully detected the firewall change and logged the event as `event.code : "4104"`. This was visible in the ElasticSIEM summary, demonstrating the effectiveness of the SIEM setup.  
-![Rule Triggered](https://github.com/YourUsername/YourRepo/blob/main/screenshots/rule-triggered.png)  
-![Event Details](https://github.com/YourUsername/YourRepo/blob/main/screenshots/event-details.png)
+![Rule Triggered](screenshots/Step%205.PNG)
+![Event Details](screenshots/Step%206.PNG)
 
 ### 🔍 **Event Investigation and Escalation**
 In a real-world scenario, an analyst would escalate this event for further investigation, ensuring it wasn’t part of an unauthorized breach attempt. Using the **Trends Tab**, we can analyze the frequency of similar events and escalate them as necessary.  
-![Trends Tab for Escalation](https://github.com/YourUsername/YourRepo/blob/main/screenshots/trends-tab.png)
+![Trends Tab for Escalation](screenshots/Step%207.PNG)
 
 ---
 
