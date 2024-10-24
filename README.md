@@ -61,12 +61,12 @@ A PowerShell command was executed on the Windows VM to simulate a security event
 
 | Screenshot | Description |
 |------------|--------------|
-| ![Elastic Agent Installed](https://github.com/YourUsername/YourRepo/blob/main/screenshots/elastic-agent-installed.png) | Elastic Agent successfully installed on the Windows VM. |
-| ![Windows Machine Connected](https://github.com/YourUsername/YourRepo/blob/main/screenshots/windows-machine-connected.png) | The Windows VM is now connected to ElasticSIEM, ready for monitoring. |
-| ![Creating Custom Rule](https://github.com/YourUsername/YourRepo/blob/main/screenshots/creating-custom-rule.png) | Creating a custom rule (`Test Rule 2`) to monitor specific security events. |
-| ![Rule Triggered](https://github.com/YourUsername/YourRepo/blob/main/screenshots/rule-triggered.png) | The custom rule was triggered by a security event, logging the incident successfully. |
-| ![Event Details](https://github.com/YourUsername/YourRepo/blob/main/screenshots/event-details.png) | Details of the security event that triggered the rule. |
-| ![Trends Tab for Escalation](https://github.com/YourUsername/YourRepo/blob/main/screenshots/trends-tab.png) | Display of security event trends, highlighting potential areas for tuning and escalation. |
+| ![Elastic Agent Installed](screenshots/Step%202.PNG) | Elastic Agent successfully installed on the Windows VM. |
+| ![Windows Machine Connected](screenshots/Step%203.PNG) | The Windows VM is now connected to ElasticSIEM, ready for monitoring. |
+| ![Creating Custom Rule](screenshots/Step%204.PNG) | Creating a custom rule (`Test Rule 2`) to monitor specific security events. |
+| ![Rule Triggered](screenshots/Step%205.PNG) | The custom rule was triggered by a security event, logging the incident successfully. |
+| ![Event Details](screenshots/Step%206.PNG) | Details of the security event that triggered the rule. |
+| ![Trends Tab for Escalation](screenshots/Step%207.PNG) | Display of security event trends, highlighting potential areas for tuning and escalation. |
 
 ---
 
