@@ -104,6 +104,6 @@ With this project and others in my portfolio, I am ready to take on my first rol
 
 ## 🚀 **Let's Connect:**
 Feel free to reach out if you’d like to discuss my projects or opportunities:
-- **Email**: [YourEmail@example.com]
+- **Email**: mohamedqadar.ibrahim@hotmail.com
 - **LinkedIn**: [YourLinkedInProfile]
 
